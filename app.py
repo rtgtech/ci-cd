@@ -1,1 +1,1 @@
-print("Hello from CI/CD Pipeline")
+print("Welcome to automated  CI/CD Pipeline")
